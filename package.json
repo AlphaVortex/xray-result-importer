@@ -1,0 +1,14 @@
+{
+  "name": "@alphavortex/xray-result-importer",
+  "version": "0.0.1",
+  "description": "Test",
+  "license": "MIT",
+  "repository": "alphavortex/xray-result-importer",
+  "main": "index.js",
+  "keywords": [
+    "xray",
+    "npm",
+    "package",
+    "alphavortex"
+  ]
+}
